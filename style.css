@@ -1,0 +1,40 @@
+::details-content
+{display: none;}
+green {
+    color: green;
+}red {
+    color: red;
+}b {
+    font-weight: bold;
+}a {
+    color: blue;
+    text-decoration: none;
+}q {
+    font-style: italic;
+}font {
+    font-family: Arial, Helvetica, sans-serif;
+}widget {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: #f9f9f9;
+}sidebar {
+    width: 200px;
+    float: left;
+    margin-right: 20px;
+    extra: 10px;
+}content {
+    margin-left: 220px;
+}code {
+    font-family: monospace;
+    background-color: #f4f4f4;
+    padding: 2px 4px;
+    border-radius: 4px;
+}video {
+    max-width: 100%;
+    height: auto;
+}u {
+    text-decoration: underline;
+}math {
+    font-family: "Times New Roman", Times, serif;
+}
